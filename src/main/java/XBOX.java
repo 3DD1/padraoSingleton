@@ -7,7 +7,7 @@ public class XBOX {
 
 
     private String controle;
-    private String heatseat;
+    private String heatset;
 
     public String getControle() {
         return controle;
@@ -17,11 +17,11 @@ public class XBOX {
         this.controle = controle;
     }
 
-    public String getHeatseat() {
-        return heatseat;
+    public String getHeatset() {
+        return heatset;
     }
 
-    public void setHeatseat(String heatseat) {
-        this.heatseat = heatseat;
+    public void setHeatset(String heatset) {
+        this.heatset = heatset;
     }
 }

@@ -10,7 +10,7 @@ class XBOXTest {
     }
     @Test
     public void deveRetornaControleHeadset(){
-        XBOX.getInstance().setControle("Headset Jogador 1");
-        assertEquals("Headset Jogador 1", XBOX.getInstance().getControle());
+        XBOX.getInstance().setHeatset("Headset Jogador 1");
+        assertEquals("Headset Jogador 1", XBOX.getInstance().getHeatset());
     }
 }
