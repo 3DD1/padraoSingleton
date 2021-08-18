@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="padraoSingleton" target="1.5" />
+      <module name="padraoSingleton" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>
